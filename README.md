@@ -155,9 +155,8 @@ For this assessment:
 ## Repository Structure
 
 ``` text
+
 ISO27001-Compliance-Risk-Dashboard/
-│
-├── README.md
 │
 ├── dashboard/
 │   └── ISO27001_Compliance_Risk_Dashboard.pbix
@@ -168,9 +167,14 @@ ISO27001-Compliance-Risk-Dashboard/
 ├── docs/
 │   └── ISO27001_Compliance_Gap_Assessment_Explanation.docx
 │
-└── screenshots/
-    ├── page-2-control-gap-analysis.png
-    └── page-3-risk-analysis.png
+├── screenshots/
+│   ├── executive-compliance-overview.png
+│   ├── control-gap-analysis.png
+│   ├── risk-analysis.png
+│   └── remediation-analysis.png
+│
+├── .gitignore
+└── README.md
 ```
 
 ## How to Use
